@@ -70,7 +70,7 @@ Voici quelques suggestions :
 - [PyCharm](https://www.jetbrains.com/fr-fr/pycharm/) l'IDE Python pour les développeurs professionnels de JetBrains
 - [Spyder](https://www.spyder-ide.org/) The Scientific Python Development Environment
 
-<figure markdown>
+<figure>
   ![Interface de Visual Studio Code](assets/img/vscode.png)
   <figcaption>Aperçu de l'interface de Visual Studio Code : [1] navigateur de fichiers, [2] éditeur de code, [3] terminal intégré</figcaption>
 </figure>
