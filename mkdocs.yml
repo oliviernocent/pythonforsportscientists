@@ -18,7 +18,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: custom
+      primary: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
@@ -26,12 +26,12 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: material
+      primary: blue
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-      primary: brown
-  logo: assets/me96px.png
-  favicon: assets/me32px.png
+  logo: assets/logo/me96px.png
+  favicon: assets/logo/me32px.png
 extra:
   # Set to true, the footer displays "Made with Material for MkDocs"
   generator: true
