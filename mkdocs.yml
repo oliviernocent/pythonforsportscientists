@@ -66,6 +66,7 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.details
+  - pymdownx.keys
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
